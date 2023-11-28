@@ -21,6 +21,7 @@ export default async function Admin() {
           <h1>Member Server Session</h1>
           <p>{session?.user?.email}</p>
           <p>{session?.user?.role}</p>
+          <p>{}</p>
         </div>
       )}
     </main>
