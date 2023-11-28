@@ -6,7 +6,7 @@ const footer = () => {
       <div className="self-end m-2">
         <Link href="/admin">Admin</Link>
       </div>
-      <div>Copyright</div>
+      <div>Copyright - Made with proud by Sallon</div>
     </div>
   );
 };
